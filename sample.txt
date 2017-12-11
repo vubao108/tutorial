@@ -1,3 +1,4 @@
 tutorial for git
 add : change for push
 commit luu lai trang thai cua index
+pull lay noi dung cua remote repository
